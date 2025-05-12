@@ -2,7 +2,7 @@
   "Disabled": false,
   "Testing": false,
   "ScheduledForDeletion": false,
-  "InstalledFromUrl": "https://raw.githubusercontent.com/teddyEDC/BMRedc/main/pluginmaster.json",
+  "InstalledFromUrl": "https://raw.githubusercontent.com/teddyEDC/EDCRepo/main/pluginmaster.json",
   "WorkingPluginId": "727eeba1-f49e-4b51-8a49-d12cb7294a08",
   "IsThirdParty": true,
   "EffectiveVersion": "1.0.0.3",
