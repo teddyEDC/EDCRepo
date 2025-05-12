@@ -24,10 +24,10 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.1/BMRedc-main.zip",
+    "DownloadLinkInstall": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.2/BMRedc-main.zip",
     "AssemblyVersion": "6.2.1.18",
-    "DownloadLinkUpdate": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.1/BMRedc-main.zip",
-    "DownloadLinkTesting": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.1/BMRedc-main.zip",
+    "DownloadLinkUpdate": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.2/BMRedc-main.zip",
+    "DownloadLinkTesting": "https://github.com/teddyEDC/BMRedc/releases/download/1.0.2/BMRedc-main.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* conflicting with the first law skirmish module, fix line stack ambiguity by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/772\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.1.17...7.2.1.18",
     "DownloadCount": 1343858
